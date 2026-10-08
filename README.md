@@ -4,6 +4,10 @@ StudyForge is a local-first AI study partner. Paste in class notes, name a topic
 
 The project was built for the Hacktoberfest 2026 “Build for a Friend” theme: make a practical study aid that can help someone learn from their own class notes.
 
+## Youtube live Demo
+
+[![Watch the StudyForge demo](https://img.youtube.com/vi/lGkjBS4V6fE/hqdefault.jpg)](https://www.youtube.com/watch?v=lGkjBS4V6fE)
+
 ## What it does
 
 1. Accepts up to 30,000 characters of notes and a topic or question of up to 200 characters.
